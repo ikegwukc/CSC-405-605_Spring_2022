@@ -89,7 +89,7 @@ This course is highly interactive and based on the problem-based learning philos
 	- ***Project Review - Stage IV***
 - **Project Presentations: (Week 15 – Final’s Week)**
 
-Class slides and ipython notebooks will be available [here](https://github.com/UNCG-CSE/CSC-405-605_Fall_2021/tree/master/Class_Resources).
+Class slides and ipython notebooks will be available [here](https://github.com/ikegwukc/CSC-405-605_Spring_2022/tree/master/Class_Resources).
 
 
 ## Grading
