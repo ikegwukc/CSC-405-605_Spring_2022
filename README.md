@@ -1,4 +1,6 @@
-# Data Science
+# Data Science 
+
+*Note*: Maybe updated in the future with additional information
 
 * **Course:** CSC 405/605 - Data Science
 * **Schedule:** Monday and Wednesday 5:30 pm - 6:45 pm
@@ -154,13 +156,13 @@ Class slides and ipython notebooks will be available [here](https://github.com/i
 | Category   	| Sub-Category 		| Deadline |
 |---------------|-------------------|----------|
 |**Assignment**	| * Github Setup	|01/19/2022|
-|               | * Assignment 1	|01/29/2022|
+|               | * Assignment 1	|01/30/2022|
 |            	| * Assignment 2	|02/13/2022|
-|			 	| * Assignment 3	|03/07/2022|
+|			 	| * Assignment 3	|03/06/2022|
 |			 	| * Assignment 4	|04/17/2022|
 | 				|  		 		    |		   |
 |**Project**   	| Groups Formed    	|01/19/2022|
-|           	| * Stage I	    	|02/17/2022|
+|           	| * Stage I	    	|02/20/2022|
 |			 	| * Stage II	    |03/16/2022|
 |			 	| * Stage III	    |04/06/2022|
 |			 	| * Stage IV	    |04/17/2022|
