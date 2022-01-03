@@ -169,7 +169,7 @@ Class slides and ipython notebooks will be available [here](https://github.com/U
 #### Submissions
 
 - **Github Setup**:
-	- Create a ***private Github repository*** (under your own account) and call it --- CSC-405-605_Fall-2021_Assignment.
+	- Create a ***private Github repository*** (under your own account) and call it --- CSC-405-605_Spring-2022_Assignment.
 	- Send me and our TA access to the repository,
     	- My username: ikegwukc
     	- Our TA is:  (TBD)
