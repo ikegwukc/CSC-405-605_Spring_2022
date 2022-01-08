@@ -138,13 +138,13 @@ Class slides and ipython notebooks will be available [here](https://github.com/i
 
 	This will be a team-based effort, where in first week of the course the students split into teams of 4-5 students. After completing each stage, the teams will have to give a short presentation (3-5 mins) and a report (1 page) of their progress with the project. The projects will be open-source and the teams will have to use GitHub as their code repository. Upon completion of the project the teams will present their software along with the results in form of a presentation (20 minutes).
 
-    1.  Each Stage of the Final Project has 14 points. They will be equally weighted for the project final score.
+    1.  Each Stage of the Final Project has 17.5 points. They will be equally weighted for the project final score.
     	1. Each stage has deliverables of:
     		1. Report
     		2. Code Jupyter/IPython Notebooks
     		3. Presentation
     	1. To get the full points in each stage you need to finish all of the deliverables.
-	1. ***Graduate Students Only:*** Stage IV has 80 points for your project and 20 points for project report. Minimum 5 pages for single author, 8 for 2 authors, and 12 for 3 authors (figures and references included). [Template:](https://www.ieee.org/conferences/publishing/templates.html). [Example:](https://arxiv.org/abs/1805.01586) (Due: 04/20/2022)
+	1. ***Graduate Students Only:*** For Stage IV, 80 percent of your points is from your project and 20 percent of your points is for the project report. Minimum 5 pages for single author, 8 for 2 authors, and 12 for 3 authors (figures and references included). [Template:](https://www.ieee.org/conferences/publishing/templates.html). [Example:](https://arxiv.org/abs/1805.01586) (Due: 04/20/2022)
 
 
 **Total: 100%**
@@ -165,7 +165,7 @@ Class slides and ipython notebooks will be available [here](https://github.com/i
 |           	| * Stage I	    	|02/20/2022|
 |			 	| * Stage II	    |03/16/2022|
 |			 	| * Stage III	    |04/06/2022|
-|			 	| * Stage IV	    |04/17/2022|
+|			 	| * Stage IV	    |04/27/2022|
 
 
 #### Submissions
