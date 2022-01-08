@@ -238,35 +238,32 @@ Students with disabilities should have documentation from the Office of Accessib
 
 ## COVID Statement
 
-As we return for spring 2022, the campus community must recognize and address continuing concerns about physical and emotional safety, especially as we will have many more students, faculty, and staff on campus than in the last academic year. As such, all students, faculty, and staff are required to uphold UNCG’s culture of care by actively engaging in behaviors that limit the spread of COVID-19. Such actions include, but are not limited to, the following:
+As we return for spring 2022, all students, faculty, and staff are required to uphold UNCG’s culture of care by actively engaging in behaviors that limit the spread of COVID-19. These actions include, but are not limited to:
 
 
-
-- Following face-covering guidelines [Link](https://update.uncg.edu/community-standards/)
-- Engaging in proper hand-washing hygiene when possible
+- Following face-covering guidelines
+- Engaging in proper hand-washing hygiene 
 - Self-monitoring for symptoms of COVID-19
-- Staying home if you are ill
-- Complying with directions from health care providers or public health officials to quarantine or isolate if ill or exposed to someone who is ill.
+- Staying home when ill
+
+Complying with directions from health care providers or public health officials to quarantine or isolate if ill or exposed to someone who is ill
+Completing a self-report when experiencing COVID-19 symptoms, testing positive for COVID-19, or being identified as a close contact of someone who has tested positive
+Staying informed about the University's policies and announcements via the COVID-19 website 
 
 
-
-Instructors will have seating charts for their classes. These are important for facilitating contact tracing should there be a confirmed case of COVID-19. Students must sit in their assigned seats at every class meeting and must not move furniture. Students should not eat or drink during class time.
-
+Instructors will have seating charts for their classes. These are important for facilitating contact tracing should there be a confirmed case of COVID-19. Students must sit in their assigned seats at every class meeting. Students may move their chairs in class to facilitate group work, as long as instructors keep seating chart records. Students should not eat or drink during class time.
 
 
-To make it easier for students to hear their instructor and/or read lips and if conditions permit, instructors who are fully vaccinated and who can maintain at least six feet of distance from students may remove their masks while actively teaching if they choose, but will wear a mask at all other times while in the classroom, including during the periods before and after class
+A limited number of disposable masks will be available in classrooms for students who have forgotten theirs. Face coverings are also available for purchase in the UNCG Campus Bookstore. Students who do not follow masking requirements will be asked to put on a face covering or leave the classroom to retrieve one and only return when they follow the basic standards of safety and care for the UNCG community. Once students have a face covering, they are permitted to re-enter a class already in progress. Repeated issues may result in conduct action. The course policies regarding attendance and academics remain in effect for partial or full absence from class due to lack of adherence with face covering and other requirements.
 
 
+For instances where the Office of Accessibility Resources and Services (OARS) has granted accommodations regarding wearing face coverings, students should contact their instructors to develop appropriate alternatives to class participation and/or activities as needed. Instructors or the student may also contact OARS (336.334.5440) who, in consultation with Student Health services, will review requests for accommodations.
 
-A limited number of disposable masks will be available in classrooms for students who have forgotten theirs. Face coverings will also be available for purchase in the UNCG Campus Bookstore. Students who do not follow masking requirements will be asked to put on a face covering or leave the classroom to retrieve one and only return when they follow the basic requirements to uphold standards of safety and care for the UNCG community. Once students have a face covering, they are permitted to re-enter a class already in progress. Repeated issues may result in conduct action. The course policies regarding attendance and academics remain in effect for partial or full absence from class due to lack of adherence with face covering and other requirements.
-
-
-
-For instances where the Office of Accessibility Resources and Services (OARS) has granted accommodations regarding wearing face coverings, students should contact their instructors to develop appropriate alternatives to class participation and/or activities as needed. Instructors or the student may also contact OARS (336.334.5440) who, in consultation with Student Health
-
-Services, will review requests for accommodations.
 
 ## Super Useful Links :)
+
+Will update as needed with useful links.
+
 ### Jupyter Notebooks
 * [How To Enhance Jupyter Notebooks for Data Science?](https://www.houseofbots.com/news-detail/4351-1-how-to-enhance-jupyter-notebooks-for-data-science)
 * [28 Jupyter Notebook Tips, Tricks, and Shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
