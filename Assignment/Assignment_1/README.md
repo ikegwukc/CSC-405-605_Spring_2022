@@ -7,6 +7,7 @@ Total: 100
 Code: 80
 Documentation within IPython using Markdown: 20
 
-Bonus: Top three submission which use the least amount of code lines will get +5 points. Blank lines do not count.
+**Bonus:** Top three submissions will get +5 points. Comment your code well and write efficent  code.
 
-## Due: 09/02/2021
+
+## Due: 01/30/2022
