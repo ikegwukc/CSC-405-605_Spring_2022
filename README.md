@@ -302,48 +302,48 @@ Will update as needed with useful links.
 
 # Group Assignments
 
-|    |   Group Number | Name                                   | Github ID                | Email                 |
-|---:|---------------:|:---------------------------------------|:-------------------------|:----------------------|
-|  0 |              1 | Venkata sai phani raj kondapalli       | SaiPhaniRaj              | vskondapall@uncg.edu  |
-|  1 |              1 | Jaya Krishna mundru                    | MundruKrishna            | j_mundru@uncg.edu     |
-|  2 |              1 | Akhilesh Pathi                         | Akhil2529                | a_pathi@uncg.edu      |
-|  3 |              1 | Harinath Sirigiri                      | Harinath153              | h_sirigiri@uncg.edu   |
-|  4 |              1 | Sardar Karan Singh                     | SinghSardarKaran         | k_sardar@uncg.edu     |
-|  5 |              2 | Kavya Manne                            | kmanne7                  | kmanne7@uncg.edu      |
-|  6 |              2 | Rajitha Panchumarthi                   | panchumarthirajitha      | r_panchumar@uncg.edu  |
-|  7 |              2 | Ramya panchumarthi                     | r_panchuma2              | r_panchuma2@uncg.edu  |
-|  8 |              2 | Sai Nikhil kakkireni                   | SaiNikhilKakkirani       | S_KAKKIRENI@uncg.edu  |
-|  9 |              2 | Soujanya Vemireddy                     | soujanyareddy1256        | s_vemireddy@uncg.edu  |
-| 10 |              3 | Suqoya Rhodes                          | suqoyarhodes             | sjrhodes@uncg.edu     |
-| 11 |              3 | Dillon Halbert                         | djhalber                 | djhalber@uncg.edu     |
-| 12 |              3 | Japp Galang                            | Japp-galang              | jggalang@uncg.edu     |
-| 13 |              3 | Hayes, Priscilla M.                    |                          | pmhayes@uncg.edu      |
-| 14 |              3 | Zhu, Pengxu                            |                          | p_zhu@uncg.edu        |
-| 15 |              4 | Gunakar Reddy Panyala                  | GunakarPanyala           | g_panyala@uncg.edu    |
-| 16 |              4 | Karthik Reddy Kanduri                  | kandurikarthikreddy-1903 | k_kanduri@uncg.edu    |
-| 17 |              4 | Balram Krishna Kantipudi               | balaramkantipudi         | B_kantipudi@uncg.edu  |
-| 18 |              4 | Chakradhar Reddy Parne                 | Parnechakradhar          | c_parne@uncg.edu      |
-| 19 |              4 | Lakshmi Gayathri Kurri                 | gayathrilakshmii         | l_kurri@uncg.edu      |
-| 20 |              5 | Vishnu Vardhan Vankayalapati           | vvvardhan3               | v_vankalaya@uncg.edu  |
-| 21 |              5 | Satya Sai Srimannarayana Sarma Bolloju | SatyaBolloju             | s_bolloju@uncg.edu    |
-| 22 |              5 | Rahul Sathya Gunti                     | RahulSathyaGunti         | r_gunti@uncg.edu      |
-| 23 |              5 | Mahesh Krishna Reddy Vanga             | Maheshkrishnareddy       | m_vanga@uncg.edu      |
-| 24 |              5 | Rahul Boga                             | rboga410                 | r_boga@uncg.edu       |
-| 25 |              6 | Sri Lakshmi Jahnavi Mandalapu          | Mandalapu2               | s_mandalap2@uncg.edu  |
-| 26 |              6 | Sai Manideep Chittiprolu               | Manideep998              | s_chittipro@uncg.edu  |
-| 27 |              6 | Sowmya Tella                           | sowmyatella              | s_tella@uncg.edu      |
-| 28 |              6 | Tejasai                                | Tejasai98                | t_chundru@uncg.edu    |
-| 29 |              6 | Sai Venkatesh                          | Venkyatukuri             | s_atukuri@uncg.edu    |
-| 30 |              7 | PRANEETH ALURU                         | Praneeth7799             | p_aluru@uncg.edu      |
-| 31 |              7 | Akash Suresh                           | Akash-min                | a_suresh2@uncg.edu    |
-| 32 |              7 | Nikhil Bolisetty                       | NKbolishetty             | N_bolishetty@uncg.edu |
-| 33 |              7 | poorva Gnana Saraswathi Tangirala      | Tsaraswathi              | A_tangirala@uncg.edu  |
-| 34 |              7 | Cheedu Venkat Narayan Reddy            | venkat200596             | v_cheedu@uncg.edu     |
-| 35 |              8 | Suresh, Akash                          |                          | a_tangirala@uncg.edu  |
-| 36 |              8 | Gunti, Rahul Sathya                    |                          | s_jagamoni@uncg.edu   |
-| 37 |              8 | Kanduri, Karthik Reddy                 |                          | b_kantipudi@uncg.edu  |
-| 38 |              8 | Tella, Sowmya                          |                          | r_vadapally@uncg.edu  |
-| 39 |              9 | Jagamoni, Sravya                       |                          | s_kakkireni@uncg.edu  |
-| 40 |              9 | Mandalapu, Sri Lakshmi Jahnavi         |                          | k_manne@uncg.edu      |
-| 41 |              9 | Atukuri, Sai Venkatesh                 |                          | s_bandi@uncg.edu      |
-| 42 |              9 | Boga, Rahul                            |                          | n_bolisetty@uncg.edu  |
+|    |   Group Number | Name                                   |
+|---:|---------------:|:---------------------------------------|
+|  0 |              1 | Venkata sai phani raj kondapalli       |
+|  1 |              1 | Jaya Krishna mundru                    |
+|  2 |              1 | Akhilesh Pathi                         |
+|  3 |              1 | Harinath Sirigiri                      |
+|  4 |              1 | Sardar Karan Singh                     |
+|  5 |              2 | Kavya Manne                            |
+|  6 |              2 | Rajitha Panchumarthi                   |
+|  7 |              2 | Ramya panchumarthi                     |
+|  8 |              2 | Sai Nikhil kakkireni                   |
+|  9 |              2 | Soujanya Vemireddy                     |
+| 10 |              3 | Suqoya Rhodes                          |
+| 11 |              3 | Dillon Halbert                         |
+| 12 |              3 | Japp Galang                            |
+| 13 |              3 | Hayes, Priscilla M.                    |
+| 14 |              3 | Zhu, Pengxu                            |
+| 15 |              4 | Gunakar Reddy Panyala                  |
+| 16 |              4 | Karthik Reddy Kanduri                  |
+| 17 |              4 | Balram Krishna Kantipudi               |
+| 18 |              4 | Chakradhar Reddy Parne                 |
+| 19 |              4 | Lakshmi Gayathri Kurri                 |
+| 20 |              5 | Vishnu Vardhan Vankayalapati           |
+| 21 |              5 | Satya Sai Srimannarayana Sarma Bolloju |
+| 22 |              5 | Rahul Sathya Gunti                     |
+| 23 |              5 | Mahesh Krishna Reddy Vanga             |
+| 24 |              5 | Rahul Boga                             |
+| 25 |              6 | Sri Lakshmi Jahnavi Mandalapu          |
+| 26 |              6 | Sai Manideep Chittiprolu               |
+| 27 |              6 | Sowmya Tella                           |
+| 28 |              6 | Tejasai                                |
+| 29 |              6 | Sai Venkatesh                          |
+| 30 |              7 | PRANEETH ALURU                         |
+| 31 |              7 | Akash Suresh                           |
+| 32 |              7 | Nikhil Bolisetty                       |
+| 33 |              7 | poorva Gnana Saraswathi Tangirala      |
+| 34 |              7 | Cheedu Venkat Narayan Reddy            |
+| 35 |              8 | Suresh, Akash                          |
+| 36 |              8 | Gunti, Rahul Sathya                    |
+| 37 |              8 | Kanduri, Karthik Reddy                 |
+| 38 |              8 | Tella, Sowmya                          |
+| 39 |              9 | Jagamoni, Sravya                       |
+| 40 |              9 | Mandalapu, Sri Lakshmi Jahnavi         |
+| 41 |              9 | Atukuri, Sai Venkatesh                 |
+| 42 |              9 | Boga, Rahul                            |
