@@ -339,9 +339,8 @@ Will update as needed with useful links.
 | 32 |              7 | Nikhil Bolisetty                       |
 | 33 |              7 | Apoorva Gnana Saraswathi Tangirala     |
 | 34 |              7 | Cheedu Venkat Narayan Reddy            |
-| 35 |              8 | Gunti, Rahul Sathya                    |
-| 36 |              8 | Kanduri, Karthik Reddy                 |
-| 37 |              8 | Jagamoni, Sravya                       |
-| 38 |              8 | Mandalapu, Sri Lakshmi Jahnavi         |
-| 39 |              8 | Vijay Bodapati                         |
+| 35 |              8 | Jagamoni, Sravya                       |
+| 36 |              8 | Vijay Bodapati                         |
+| 37 |              8 | Vineeth Reddy                          |
+| 38 |              8 |  Vadapally Ramyasree                   |
  
