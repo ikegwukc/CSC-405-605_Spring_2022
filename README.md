@@ -91,7 +91,7 @@ This course is highly interactive and based on the problem-based learning philos
 	- ***Project Review - Stage IV***
 - **Project Presentations: (Week 15 – Final’s Week)**
 
-Class slides and ipython notebooks will be available [here](https://github.com/ikegwukc/CSC-405-605_Spring_2022/tree/master/Class_Resources).
+Class slides and ipython notebooks will be available [here](https://github.com/ikegwukc/CSC-405-605_Spring_2022/tree/master/ClassResources).
 
 
 ## Grading
@@ -337,13 +337,11 @@ Will update as needed with useful links.
 | 30 |              7 | PRANEETH ALURU                         |
 | 31 |              7 | Akash Suresh                           |
 | 32 |              7 | Nikhil Bolisetty                       |
-| 33 |              7 | poorva Gnana Saraswathi Tangirala      |
+| 33 |              7 | Apoorva Gnana Saraswathi Tangirala     |
 | 34 |              7 | Cheedu Venkat Narayan Reddy            |
-| 35 |              8 | Suresh, Akash                          |
-| 36 |              8 | Gunti, Rahul Sathya                    |
-| 37 |              8 | Kanduri, Karthik Reddy                 |
-| 38 |              8 | Tella, Sowmya                          |
-| 39 |              9 | Jagamoni, Sravya                       |
-| 40 |              9 | Mandalapu, Sri Lakshmi Jahnavi         |
-| 41 |              9 | Atukuri, Sai Venkatesh                 |
-| 42 |              9 | Boga, Rahul                            |
+| 35 |              8 | Gunti, Rahul Sathya                    |
+| 36 |              8 | Kanduri, Karthik Reddy                 |
+| 37 |              8 | Jagamoni, Sravya                       |
+| 38 |              8 | Mandalapu, Sri Lakshmi Jahnavi         |
+| 39 |              8 | Vijay Bodapati                         |
+ 
